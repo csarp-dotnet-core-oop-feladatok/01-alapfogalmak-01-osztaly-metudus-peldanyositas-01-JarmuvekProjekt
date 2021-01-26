@@ -5,7 +5,7 @@
 // Mindegyik metódus egy megfelelő szöveget írjon ki a képernyőre (pl. „Autó megy munkahelyre.” vagy „Kerékpár megy haza.”!
 // Példányosítsa Péter két járművét, amely elmegy a munkahelyre, majd visszajön.
 // Példányosítsa Zsófi egy Pétertől különböző járművét, amely szintén elmegy a munkahelyre, majd visszajön.
-
+// Az elkészült osztály dokumentálja UML diagrammal!
 
 using System;
 
