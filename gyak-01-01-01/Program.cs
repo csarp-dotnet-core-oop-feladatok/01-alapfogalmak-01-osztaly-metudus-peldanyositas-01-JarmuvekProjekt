@@ -11,7 +11,7 @@ using System;
 
 namespace gyak_01_01_01_poliomorf_metodusok
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
