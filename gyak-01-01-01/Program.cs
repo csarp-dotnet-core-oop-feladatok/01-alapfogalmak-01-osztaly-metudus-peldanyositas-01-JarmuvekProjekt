@@ -1,5 +1,5 @@
 ﻿// 1.	JarmuvekProjekt
-// Készítsen különböző jármű osztályokat (kerékpár, motorbicikli, autó,…).
+// Készítsen osztályt Car néven.
 // Mindegyik osztály tagjai képes elmenni a munkahelyre és hazajönni a munkahelyről.
 // Írja meg ennek megfelelően a szükséges metódusokat a polimorfizmus elvét figyelembe véve.
 // Mindegyik metódus egy megfelelő szöveget írjon ki a képernyőre (pl. „Autó megy munkahelyre.” vagy „Kerékpár megy haza.”!
