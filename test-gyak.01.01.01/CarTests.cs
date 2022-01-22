@@ -4,6 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+using System.IO;
+
 namespace gyak_01_01_01_poliomorf_metodusok.Tests
 {
     [TestClass()]
