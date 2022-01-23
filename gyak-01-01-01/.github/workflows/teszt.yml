@@ -9,7 +9,7 @@ on:
     - '**.csproj'
 
 env:
-  DOTNET_VERSION: '5.0.x' # The .NET SDK version to use
+  DOTNET_VERSION: '5.0.x'
   TEST_PATH: test-gyak-01-01-01/test-gyak-01-01-01.csproj
 
 jobs:
