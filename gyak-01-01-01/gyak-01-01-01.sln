@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JarmuvekProjekt", "Jarmuvek
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC442F37-3783-4497-8459-258154C7911D}"
 	ProjectSection(SolutionItems) = preProject
-		.github\workflows\teszt.yml = .github\workflows\teszt.yml
+		..\.github\workflows\teszt.yml = ..\.github\workflows\teszt.yml
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test-gyak-01-01-01", "..\test-gyak-01-01-01\test-gyak-01-01-01.csproj", "{2EDFAEE5-47AC-40F7-85AF-D0CB0137153C}"
