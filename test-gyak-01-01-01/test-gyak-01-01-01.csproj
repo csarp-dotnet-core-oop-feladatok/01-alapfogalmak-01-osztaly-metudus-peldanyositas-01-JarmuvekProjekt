@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>.NETCoreApp,Version=v3.1</TargetFramework>
-    <RootNamespace>gyak._01._01._01</RootNamespace>
+    <RootNamespace>gyak-01.01.01</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
