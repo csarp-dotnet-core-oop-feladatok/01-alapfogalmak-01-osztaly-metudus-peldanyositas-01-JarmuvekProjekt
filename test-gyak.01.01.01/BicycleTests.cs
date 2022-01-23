@@ -12,31 +12,31 @@ namespace gyak_01_01_01_poliomorf_metodusok.Tests
     public class BicycleTests
     {
         [TestMethod()]
-        public void GoToWorkTest()
+        public void GoToWorkTestBicycle()
         {
-            Car car = new Car();
-            string expected = "Autó megy munkahelyre.\r\n";
+            Bicycle bicycle = new Bicycle();
+            string expected = "Kerékpár megy munkahelyre.\r\n";
 
             StringWriter sw = new StringWriter();
             Console.SetOut(sw);
-            car.GoToWork();
+            bicycle.GoToWork();
 
             string actual = sw.ToString();
-            Assert.AreEqual(expected, actual, "A GoToWork függvény nem a megfelelő szöveget írja a képernyőre!");
+            Assert.AreEqual(expected, actual, "A Bicycle->GoToWork függvény nem a megfelelő szöveget írja a képernyőre!");
         }
 
         [TestMethod()]
         public void ComingHomeTest()
         {
-            Car car = new Car();
-            string expected = "Autó megy haza.\r\n";
+            Bicycle bicycle = new Bicycle();
+            string expected = "Kerékpár megy haza.\r\n";
 
             StringWriter sw = new StringWriter();
             Console.SetOut(sw);
-            car.ComingHome();
+            bicycle.ComingHome();
 
             string actual = sw.ToString();
-            Assert.AreEqual(expected, actual, "A ComingHome függvény nem a megfelelő szöveget írja a képernyőre!");
+            Assert.AreEqual(expected, actual, "A Bicycle->ComingHome függvény nem a megfelelő szöveget írja a képernyőre!");
         }
     }
 }
