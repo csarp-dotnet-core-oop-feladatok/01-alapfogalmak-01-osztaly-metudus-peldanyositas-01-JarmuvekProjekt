@@ -9,7 +9,7 @@ using System.IO;
 namespace gyak_01_01_01_poliomorf_metodusok.Tests
 {
     [TestClass()]
-    public class BicycleTests
+    public class CarTests
     {
         [TestMethod()]
         public void GoToWorkTest()
