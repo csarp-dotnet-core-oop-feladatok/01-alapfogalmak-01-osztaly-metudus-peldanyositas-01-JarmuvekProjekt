@@ -6,8 +6,8 @@ Készítsen különböző jármű osztályokat (kerékpár, motorbicikli, autó,
 A kiírások után új sor karakter kerül a konzolra! 
 
 
-Példányosítsa Péter két járművét, amely elmegy a munkahelyre, majd visszajön.    
-Példányosítsa Zsófi egy Pétertől különböző járművét, amely szintén elmegy a munkahelyre, majd visszajön.    
+Példányosítsa Péter autóját amelyik elmegy a munkahelyre és hazajön.   
+Példányosítsa Zsófi kerékpárját, amely szintén elmegy a munkahelyre, majd visszajön.    
 
 
 Az elkészült osztály dokumentálja UML diagrammal!    
