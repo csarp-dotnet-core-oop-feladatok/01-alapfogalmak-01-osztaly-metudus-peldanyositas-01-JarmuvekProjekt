@@ -6,8 +6,8 @@ Mindegyik osztály tagjai képes elmenni a munkahelyre és hazajönni a munkahel
 Írja meg ennek megfelelően a GoToWork és ComingHome metódusokat a polimorfizmus elvét figyelembe véve minkét osztályba! 
 Mindegyik metódus egy megfelelő szöveget írjon ki a képernyőre (pl. „Autó megy munkahelyre.” vagy „Kerékpár megy haza.”)
 A feladat megoldása megfelelő, ha a tesztek lefutnak!
-Példányosítsa Péter két járművét, amely elmegy a munkahelyre, majd visszajön.
-Példányosítsa Péter járművét és Zsófi járművét is! Minkettő menjen el a munkahelyre, majd jöjjön haza!
+Példányosítsa Péter autóját amelyik elmegy a munkahelyre és hazajön.   
+Példányosítsa Zsófi kerékpárját, amely szintén elmegy a munkahelyre, majd visszajön.    
 Az elkészült osztály dokumentálja UML diagrammal!
 */
 
